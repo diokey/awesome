@@ -67,7 +67,7 @@
 
 - [Django](https://github.com/rosarior/awesome-django)
 - [Play1 Framework](https://github.com/PerfectCarl/awesome-play1)
-- [CakePHP](https://github.com/dereuromark/awesome-cakephp)
+- [CakePHP](https://github.com/friendsofcake/awesome-cakephp)
 - [Symfony2](https://github.com/EmanueleMinotto/awesome-symfony2)
 - [Laravel](https://github.com/tuwannu/awesome-laravel)
 
@@ -97,6 +97,7 @@
 - [Algorithms](https://github.com/tayllan/awesome-algorithms)
 - [Algorithm Visualizations](https://github.com/enjalot/algovis)
 - [Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence)
+- [Search Engine Optimization](https://github.com/marcobiedermann/search-engine-optimization)
 
 
 ## Miscellaneous
@@ -139,7 +140,7 @@
 - [Quick Look Plugins](https://github.com/sindresorhus/quick-look-plugins)
 - [Learn to Program](https://github.com/karlhorky/learn-to-program)
 - [Boilerplate Projects](https://github.com/melvin0008/awesome-projects-boilerplates)
-
+- [Design and Development Guides](https://github.com/NARKOZ/guides)
 
 ## License
 
